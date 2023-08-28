@@ -268,21 +268,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor <a name="autor"></a>
-
-<a href="https://github.com/lucasbarzan/">
- <img src="https://avatars2.githubusercontent.com/u/25365429?s=460&u=ac94c8da0e69db2558f031d01dbca5c60aa19b77&v=4" width="100px" alt="Lucas Barzan" />
- <br />
- <sub><b>Lucas Barzan</b></sub></a>
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-LucasBarzan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbarzan/)](https://www.linkedin.com/in/lucasbarzan/) 
-[![Gmail Badge](https://img.shields.io/badge/-lucasbarzand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbarzand@gmail.com)](mailto:lucasbarzand@gmail.com)
-
----
-
 ## 📝 Licença <a name="licenca"></a>
 
 Este projeto esta sob a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Lucas Barzan 👋🏽 [Entre em contato!](https://www.linkedin.com/in/lucasbarzan/)
+Feito com ❤️ por Hyarlei Silva 👋🏽 [Entre em contato!](https://www.linkedin.com/in/hyarlei-silva-b279b5250/)
